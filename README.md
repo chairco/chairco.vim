@@ -64,4 +64,7 @@ source ~/.vim/vimrc.d/keymap.vim
 
 ```
 
-# 執行 Vim 並在 vim 內使用 :NeoBundleInstall 安裝各個 plugin。
+執行 Vim 並在 vim 內使用 :NeoBundleInstall 安裝各個 plugin。
+
+
+
